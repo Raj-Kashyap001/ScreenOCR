@@ -1,4 +1,4 @@
-# ScreenOCR
+# ScreenOCR For Linux
 A simple script to capture a screenshot, perform OCR on it, and copy the text to the clipboard.
 
 ## Features
